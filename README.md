@@ -24,7 +24,7 @@ You can customize the theme and layout of this badge!
 Visit https://github.com/anuraghazra/github-readme-stats for more options.
 Example themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula.
 -->
-[![Evangelista Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=evangelista-junior&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Evangelista Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=evangelista-junior)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
